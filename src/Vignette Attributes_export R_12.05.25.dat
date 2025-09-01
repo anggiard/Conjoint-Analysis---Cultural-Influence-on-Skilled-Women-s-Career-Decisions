@@ -1,0 +1,19 @@
+Attributes
+Childcare & Family Support:Childcare available; equal partner support,Limited childcare; partial partner support,Very difficult childcare access; must manage alone
+Working Hours:20-30 h/week; rarely overtime,30-35 h/week; occasional overtime,40+ h/week; frequent overtime
+Workplace Flexibility:Flexible hours; remote work allowed,Fixed hours; limited remote days,Fixed hours; on-site work
+Career Growth Opportunities:Clear promotion path; active mentoring,Limited promotion path; self-driven upskill,No promotion path; no upskill support
+Workplace Gender Equality Culture:Gender-equal leadership; active inclusion,Some women leaders; weak gender equality policies,Male-led workplace; no gender equality policies
+Family & Social Expectations:Expected to prioritize family duties over career,Expected to balance between family duties and career,Career commitments are fully supported
+Financial Benefits:High salary; strong bonuses & benefits,Average salary; basic benefits,Below average salary; no bonuses
+Personal Value Alignment:Strong match with skills & long term goals,Partial match with skills, not long term goals,Poor match with skills & long term goals
+Weights
+Childcare & Family Support:0.3333333333333333,0.3333333333333333,0.3333333333333333
+Working Hours:0.3333333333333333,0.3333333333333333,0.3333333333333333
+Workplace Flexibility:0.3333333333333333,0.3333333333333333,0.3333333333333333
+Career Growth Opportunities:0.3333333333333333,0.3333333333333333,0.3333333333333333
+Workplace Gender Equality Culture:0.3333333333333333,0.3333333333333333,0.3333333333333333
+Family & Social Expectations:0.3333333333333333,0.3333333333333333,0.3333333333333333
+Financial Benefits:0.3333333333333333,0.3333333333333333,0.3333333333333333
+Personal Value Alignment:0.3333333333333333,0.3333333333333333,0.3333333333333333
+Restrictions
