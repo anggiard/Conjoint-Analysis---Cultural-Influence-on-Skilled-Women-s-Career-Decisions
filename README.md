@@ -24,9 +24,6 @@ All data shared here is de-identified. Direct identifiers (e.g., names, emails, 
 ## Contact
 Questions? Open an issue on GitHub or email anggiard91@gmail.com.
 
-## DOI
-This repository is archived and citable via [DOI:10.5281/zenodo.17019955](https://doi.org/10.5281/zenodo.17019955)
-
 
 ## DOI
 This repository is archived and citable via Zenodo: [DOI:10.5281/zenodo.17019954](https://doi.org/10.5281/zenodo.17019954)
