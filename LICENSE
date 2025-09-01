@@ -20,3 +20,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+---
+
+## Additional License Information (Data & Figures)
+
+The datasets in the `data/` folder and images in the `figures/` folder are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+This license applies to files in:
+- data/ (all subfolders)
+- figures/ (all images)
+- documentation text in README.md (if not code)
+
+Full legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/
