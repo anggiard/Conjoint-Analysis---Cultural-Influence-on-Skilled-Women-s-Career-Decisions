@@ -1,1 +1,20 @@
+cff-version: 1.2.0
+title: "How Origin-Country Culture Shapes Career Decisions of Highly Educated Indonesian Women in Germany – A Conjoint Experiment"
+message: "If you use this repository, please cite it as below."
+type: dataset
+authors:
+  - family-names: Dewayani
+    given-names: Anggita Ratna
+keywords:
+  - conjoint analysis
+  - Indonesian diaspora
+  - skilled women migrants
+  - gender norms
+  - workplace attributes
+  - survey experiment
+
+license: CC-BY-NC-SA-4.0
+repository-code: https://github.com/anggiard/Conjoint-Experiment-Skilled-Indonesian-Women
+version: "1.0.0"
+date-released: "2025-09-01"
 
