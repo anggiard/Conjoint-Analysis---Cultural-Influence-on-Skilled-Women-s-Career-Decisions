@@ -1,0 +1,39 @@
+theme	question_text							percent_agree		survey_order
+
+Theme 1	Good Career Growth Opportunities				76.7857142857143	1
+Theme 1	Gender Equality Actively Supported				91.0714285714286	2
+Theme 1	Has Women in Leadership						67.8571428571429	3
+Theme 1	Good Work-Life Balance						73.2142857142857	4
+
+Theme 2	Current Salary Fits Experience					66.0714285714286	1
+Theme 2	Current Financial Benefits Gives Sense of Stability		69.6428571428571	2
+Theme 2	Satisfied with Current Financial Benefits			66.0714285714286	3
+
+Theme 3	Work-Life Balance						86.7469879518072	1
+Theme 3	Working Flexibility						81.9277108433735	2
+Theme 3	Financial Security						79.5180722891566	3
+Theme 3	Career Growth							66.2650602409639	4
+Theme 3	Workplace Supports Women					85.5421686746988	5
+Theme 3	Job & Personal Value Alignment					89.1566265060241	6
+Theme 3	Family Friendly Policies					83.1325301204819	7
+Theme 3	Partner/Family Support						79.5180722891566	8
+
+Theme 4	Expected to Prioritize Family Over Career			49.3975903614458	1
+Theme 4	Pressure to Maintain Traditional Gender Roles			24.0963855421687	2
+Theme 4	Conflict Between Career Ambitions & Cultural Expectations	25.3012048192771	3
+Theme 4	Germany Influenced Me to Support Women's Careers		53.0120481927711	4
+
+Theme 5	Difficulty in Finding Childcare					32.5301204819277	1
+Theme 5	Childcare Cost Impacts Career Decision				38.5542168674699	2
+
+Theme 6	Experienced Gender Bias						17.8571428571429	1
+Theme 6	Germany is More Supportive for Working Mothers than Indonesia	83.9285714285714	2
+Theme 6	Need to Work Harder Than Germans				46.4285714285714	3
+Theme 6	Indonesian Background is Valued & Respected			71.4285714285714	4
+
+Theme 7	Balancing Professional & Family Responsibilities		50			1
+Theme 7	Meeting Social Expectations					36.5853658536585	2
+Theme 7	Adapting to German Workplace					46.3414634146341	3
+Theme 7	Building Professional Networks					65.8536585365854	4
+Theme 7	Cross-Cultural Communication					58.5365853658537	5
+Theme 7	Staying Connected to Indonesian Identity			34.1463414634146	6

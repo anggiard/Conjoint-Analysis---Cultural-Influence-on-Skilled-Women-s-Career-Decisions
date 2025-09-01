@@ -1,0 +1,26 @@
+
+Attribute			Level			Estimate	StdError	Zvalue	Pvalue	LowerCI	UpperCI
+
+Childcare & Family Support	01 Low Support		0		NA		NA	NA	NA	NA
+Childcare & Family Support	02 Moderate Support	0.298		0.069		4.328	0	0.163	0.433
+Childcare & Family Support	03 High Support		0.432		0.067		6.402	0	0.3	0.564
+
+Working Hours			01 Intensive		0		NA		NA	NA	NA	NA
+Working Hours			02 Demanding		0.064		0.055		1.153	0.249	-0.044	0.172
+Working Hours			03 Balanced		0.187		0.062		3.022	0.003	0.066	0.308
+
+Workplace Flexibility		01 Low Flexibility	0		NA		NA	NA	NA	NA
+Workplace Flexibility		02 Moderate Flexibility	0.116		0.062		1.872	0.061	-0.005	0.238
+Workplace Flexibility		03 High Flexibility	0.164		0.056		2.913	0.004	0.054	0.275
+
+Career Growth			01 Low Opportunities	0		NA		NA	NA	NA	NA
+Career Growth			02 Moderate Opport	0.039		0.057		0.677	0.499	-0.073	0.151
+Career Growth			03 High Opportunities	0.064		0.064		0.996	0.319	-0.062	0.19
+	
+Workplace Gender Equality	01 Unsupportive		0		NA		NA	NA	NA	NA
+Workplace Gender Equality	02 Neutral		0.051		0.057		0.904	0.366	-0.06	0.162
+Workplace Gender Equality	03 Supportive		0.03		0.05		0.61	0.542	-0.067	0.128
+
+Financial Benefits		01 Low			0		NA		NA	NA	NA	NA
+Financial Benefits		02 Moderate		0.175		0.054		3.236	0.001	0.069	0.282
+Financial Benefits		03 High			0.209		0.059		3.529	0	0.093	0.326
