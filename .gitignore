@@ -1,1 +1,16 @@
+# OS junk
+.DS_Store
+
+# R history and temp files
+.Rhistory
+.RData
+.Rproj.user/
+.Rproj.user
+*.Rproj
+
+# Excel temp files
+~$*.xlsx
+
+# Zips you don’t want tracked
+*.zip
 
